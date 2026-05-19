@@ -51,15 +51,6 @@
 
 ---
 
-## 🔥 Projets
-
-- 🕸️ Projet cybersécurité (NSI / SES)
-- 💻 Scripts Python & automatisation
-- 🌐 Expérimentations web
-- ⚙️ Tests C / C# & logique système
-
----
-
 ## 🎯 Objectif
 
 > Devenir un développeur capable de comprendre, sécuriser et construire des systèmes complexes.
