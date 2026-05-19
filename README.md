@@ -1,9 +1,10 @@
-<h1 align="center">shinobyTN</h1>
-
 <p align="center">
-  💻 Développeur en apprentissage • 🔐 Passion cybersécurité • 🧠 Curieux de tout
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=180&section=header&text=SHINOBYTN&fontSize=45&fontColor=00ff9f" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shinobyTN?style=for-the-badge&logo=github&color=00ff9f" />
+</p>
 ---
 
 ## ⚡ À propos de moi
