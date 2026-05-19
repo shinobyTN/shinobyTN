@@ -1,19 +1,27 @@
+<!-- HEADER CYBERPUNK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=180&section=header&text=SHINOBYTN&fontSize=45&fontColor=00ff9f" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=SHINOBYTN&fontSize=50&fontColor=ffffff" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shinobyTN?style=for-the-badge&logo=github&color=00ff9f" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+en+apprentissage;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;Exploration+du+Dark+Web+%26+des+syst%C3%A8mes;Toujours+en+train+d%27apprendre+%F0%9F%94%A5" />
 </p>
+
+<!-- FOLLOWERS -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shinobyTN?label=Followers&style=for-the-badge&color=00f7ff" />
+</p>
+
 ---
 
 ## ⚡ À propos de moi
 
-- 🎓 Étudiant (NSI / projets tech)
-- 🔐 Passionné par la **cybersécurité & les systèmes**
-- 🌐 Intéressé par le **Dark Web, la sécurité des réseaux et les vulnérabilités**
-- 🧪 J’aime comprendre comment les systèmes fonctionnent “sous le capot”
-- 🚀 Toujours en train d’apprendre et de construire des projets concrets
+- 🎓 Étudiant NSI / passionné informatique
+- 🔐 Cybersécurité, réseaux, anonymat
+- 🕸️ Intéressé par les systèmes complexes (Dark Web, sécurité)
+- 🧠 J’aime comprendre comment tout fonctionne “under the hood”
+- 🚀 Objectif : devenir très solide en dev + sécurité
 
 ---
 
@@ -21,26 +29,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,python,linux,bash,git,github,vscode" />
 
 </p>
 
 ---
 
-## 🔎 Projets en cours
-
-- 🕸️ **Projet cybersécurité (NSI / SES)**  
-  Analyse des risques, Dark Web, anonymat, sécurité des données
-
-- 💻 **Scripts Python**  
-  Automatisation, petits outils, logique algorithmique
-
-- 🌐 **Expérimentations web**  
-  Front-end, interfaces simples, tests de concepts
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=tokyonight" />
@@ -50,17 +45,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinobyTN&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 Projets
+
+- 🕸️ Projet cybersécurité (NSI / SES)
+- 💻 Scripts Python & automatisation
+- 🌐 Expérimentations web
+- ⚙️ Tests C / C# & logique système
+
 ---
 
 ## 🎯 Objectif
 
-> Comprendre profondément les systèmes informatiques,  
-> maîtriser la cybersécurité,  
-> et construire des projets solides et utiles.
+> Devenir un développeur capable de comprendre, sécuriser et construire des systèmes complexes.
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/shinobyTN">GitHub</a> •
@@ -70,5 +76,5 @@
 ---
 
 <p align="center">
-  ⚡ “Security is not a product, but a process.”
+  ⚡ “Hack the system. Understand the system. Improve the system.”
 </p>
