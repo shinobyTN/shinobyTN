@@ -4,7 +4,7 @@
 </p>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+en+apprentissage;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9;Exploration+du+Dark+Web+%26+des+syst%C3%A8mes;Toujours+en+train+d%27apprendre+%F0%9F%94%A5" />
 </p>
 
