@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est [Ton Prénom / Pseudo]</h1>
+<h1 align="center">Shinoby</h1>
 
 <p align="center">
   💻 Développeur passionné • 🚀 Apprenant en continu • 🎯 Focus sur mes projets
@@ -48,7 +48,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://github.com/[TON_USERNAME]">GitHub</a> •
+  <a href="https://github.com/shinobyTN">GitHub</a> •
   <a href="https://www.linkedin.com/in/[TON_LINKEDIN]">LinkedIn</a> •
   <a href="mailto:[tonmail]">Email</a>
 </p>
