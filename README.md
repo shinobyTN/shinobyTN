@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/shinobyTN">GitHub</a> •
-  <a href="mailto:tonmail@gmail.com">Email</a>
+  <a href="mailto:aminebouzaiene2006@gmail.com">Email</a>
 </p>
 
 ---
