@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Réseaux+%26+Télécommunications;Développement+Java+%26+Python;Sécurité+informatique+%26+systèmes" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=R%C3%A9seaux%20%26%20T%C3%A9l%C3%A9communications;D%C3%A9veloppement%20Java%20%26%20Python;S%C3%A9curit%C3%A9%20informatique%20%26%20syst%C3%A8mes" />
 </p>
 
 ---
@@ -48,12 +48,12 @@ Recherche et analyse des mécanismes d'anonymat sur internet, des risques associ
 ## Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shinobyTN&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobyTN&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
