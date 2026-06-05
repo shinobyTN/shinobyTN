@@ -1,57 +1,56 @@
-<!-- HEADER -->
-<h1 align="center">shinobyTN</h1>
+<h1 align="center">Shinoby</h1>
 
 <p align="center">
-  Développeur en apprentissage • Cybersécurité • Systèmes
+  Étudiant en informatique · IUT Robert Schuman, Université de Strasbourg
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%C3%89tudiant+%C3%A0+l'IUT+Robert+Schuman;Universit%C3%A9+de+Strasbourg;Toujours+en+train+d%E2%80%99apprendre" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Réseaux+%26+Télécommunications;Développement+Java+%26+Python;Sécurité+informatique+%26+systèmes" />
 </p>
 
 ---
 
 ## À propos
 
-Étudiant à l’IUT Robert Schuman (Université de Strasbourg),  
-je m’intéresse particulièrement au développement logiciel, à la cybersécurité et aux systèmes.
+Je suis étudiant en **BUT Réseaux & Télécommunications** à l'IUT Robert Schuman (Université de Strasbourg). Ma formation couvre à la fois les infrastructures réseau et le développement logiciel, ce qui me permet d'aborder les systèmes informatiques sous plusieurs angles.
 
-J’aime comprendre le fonctionnement des technologies en profondeur et construire des projets concrets.
+Je m'intéresse particulièrement à :
+- **La sécurité des systèmes et des réseaux** — VLANs, protocoles, analyse de trafic
+- **Le développement orienté objet** — Java, conception UML, modélisation
+- **L'administration système** — Linux, scripting Bash, virtualisation
 
 ---
 
-## Technologies
+## Stack technique
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,js,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,bash,linux,git,github,html,css,js,vscode" />
 </p>
 
 ---
 
 ## Projets
 
-### 🔐 Projet Cybersécurité — Dark Web & Anonymat
-Analyse du Dark Web, des risques liés à l’anonymat et des méthodes de protection.
+### 🖧 Laboratoires réseau — VLANs, DHCP, DNS, routage statique
+Travaux pratiques sur switchs Juniper, configuration de VLANs, mise en place de DHCP/DNS avec `dnsmasq` sur Raspberry Pi, analyse de trafic avec Wireshark.
 
-### 🐍 Scripts & Outils Python
-Création de scripts et petits outils pour automatiser certaines tâches et expérimenter des concepts.
+### ♠️ Jeu de cartes — *Inscryption* (Java)
+Implémentation d'un jeu de cartes inspiré d'Inscryption : modélisation UML, architecture orientée objet, gestion des tours et des effets de cartes en Java.
 
-### 🌐 Projets Web
-Développement d’interfaces web et expérimentations front-end.
+### 🤠 Simulation narrative — Western Story (Java)
+Moteur de simulation textuelle : personnages, événements aléatoires, logique de combat — conçu avec des interfaces et classes abstraites en Java.
+
+### 🔐 Dossier Cybersécurité — Dark Web & Anonymat
+Recherche et analyse des mécanismes d'anonymat sur internet, des risques associés et des pratiques de protection.
 
 ---
 
-## GitHub Stats
+## Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true" />
-  
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shinobyTN&theme=github-dark-blue&hide_border=true" />
 </p>
-
----
-
-## Activité
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=github-compact&hide_border=true" />
@@ -62,11 +61,13 @@ Développement d’interfaces web et expérimentations front-end.
 ## Contact
 
 <p align="left">
-  <a href="https://github.com/shinobyTN">GitHub</a>
+  <a href="https://github.com/shinobyTN">
+    <img src="https://img.shields.io/badge/GitHub-shinobyTN-181717?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Apprendre aujourd’hui, construire demain.</i>
+  <sub>Étudiant · Strasbourg · En apprentissage permanent</sub>
 </p>
