@@ -12,7 +12,7 @@
 
 ## À propos
 
-Je suis étudiant en **BUT Réseaux & Télécommunications** à l'IUT Robert Schuman (Université de Strasbourg). Ma formation couvre à la fois les infrastructures réseau et le développement logiciel, ce qui me permet d'aborder les systèmes informatiques sous plusieurs angles.
+Je suis étudiant en **BUT Réalisation d'applications : conception, développement, validation** à l'IUT Robert Schuman (Université de Strasbourg). Ma formation couvre à la fois les infrastructures réseau et le développement logiciel, ce qui me permet d'aborder les systèmes informatiques sous plusieurs angles.
 
 Je m'intéresse particulièrement à :
 - **La sécurité des systèmes et des réseaux** — VLANs, protocoles, analyse de trafic
