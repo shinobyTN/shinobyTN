@@ -1,73 +1,139 @@
-<h1 align="center">Shinoby</h1>
+# 👋 Salut, moi c'est Shinoby !
 
 <p align="center">
-  Étudiant en informatique · IUT Robert Schuman, Université de Strasbourg
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=R%C3%A9seaux%20%26%20T%C3%A9l%C3%A9communications;D%C3%A9veloppement%20Java%20%26%20Python;S%C3%A9curit%C3%A9%20informatique%20%26%20syst%C3%A8mes" />
-</p>
-
----
-
-## À propos
-
-Je suis étudiant en **BUT Réalisation d'applications : conception, développement, validation** à l'IUT Robert Schuman (Université de Strasbourg). Ma formation couvre à la fois les infrastructures réseau et le développement logiciel, ce qui me permet d'aborder les systèmes informatiques sous plusieurs angles.
-
-Je m'intéresse particulièrement à :
-- **La sécurité des systèmes et des réseaux** — VLANs, protocoles, analyse de trafic
-- **Le développement orienté objet** — Java, conception UML, modélisation
-- **L'administration système** — Linux, scripting Bash, virtualisation
-
----
-
-## Stack technique
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,bash,linux,git,github,html,css,js,vscode" />
-</p>
-
----
-
-## Projets
-
-### 🖧 Laboratoires réseau — VLANs, DHCP, DNS, routage statique
-Travaux pratiques sur switchs Juniper, configuration de VLANs, mise en place de DHCP/DNS avec `dnsmasq` sur Raspberry Pi, analyse de trafic avec Wireshark.
-
-### ♠️ Jeu de cartes — *Inscryption* (Java)
-Implémentation d'un jeu de cartes inspiré d'Inscryption : modélisation UML, architecture orientée objet, gestion des tours et des effets de cartes en Java.
-
-### 🤠 Simulation narrative — Western Story (Java)
-Moteur de simulation textuelle : personnages, événements aléatoires, logique de combat — conçu avec des interfaces et classes abstraites en Java.
-
-### 🔐 Dossier Cybersécurité — Dark Web & Anonymat
-Recherche et analyse des mécanismes d'anonymat sur internet, des risques associés et des pratiques de protection.
-
----
-
-## Statistiques GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobyTN&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <strong>Étudiant en BUT Informatique — IUT Robert Schuman</strong><br>
+  Université de Strasbourg · À la recherche de mon premier stage en informatique
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=D%C3%A9veloppement+logiciel;Programmation+orient%C3%A9e+objet+%28Java%29;Syst%C3%A8mes+%26+Linux;Curieux%2C+motiv%C3%A9+et+toujours+en+apprentissage" alt="Présentation animée" />
 </p>
 
 ---
 
-## Contact
+## 👨‍💻 À propos de moi
+
+Je suis étudiant en **deuxième année de BUT Informatique à l'IUT Robert Schuman**, au sein de l'Université de Strasbourg.
+
+Au cours de ma formation, je développe mes compétences en programmation, en conception logicielle, en bases de données et en systèmes informatiques. J'aime comprendre comment les choses fonctionnent, résoudre des problèmes et concrétiser mes idées à travers des projets.
+
+Je suis actuellement à la recherche de mon **premier stage en informatique**, afin de mettre en pratique mes connaissances, de découvrir le monde professionnel et de continuer à progresser au contact d'une équipe.
+
+### 🔎 Mes centres d'intérêt techniques
+
+- **Développement logiciel :** programmation en Java, Python et C, selon les projets.
+- **Programmation orientée objet (POO) :** classes, interfaces, héritage, polymorphisme et conception UML.
+- **Systèmes :** environnement Linux, ligne de commande et scripting Bash.
+- **Réseaux :** adressage IP, VLAN, DHCP, DNS et routage.
+- **Bases de données :** modélisation et requêtes SQL.
+- **Cybersécurité :** découverte des mécanismes de sécurité, de l'anonymat et des risques sur Internet.
+
+---
+
+## 🛠️ Technologies et outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,bash,linux,git,github,html,css,js,vscode" alt="Technologies et outils" />
+</p>
+
+**Programmation :** Java, Python, C, Bash, HTML, CSS et JavaScript.
+
+**Conception logicielle :** programmation orientée objet, UML, interfaces et classes abstraites.
+
+**Systèmes et réseaux :** Linux, ligne de commande, configuration réseau et outils d'analyse de trafic.
+
+**Bases de données :** SQL et modélisation relationnelle.
+
+**Outils :** Git, GitHub et Visual Studio Code.
+
+*Cette liste présente les technologies rencontrées ou utilisées dans mon parcours. Mon niveau de maîtrise varie selon les outils et les projets.*
+
+---
+
+## 🚀 Mes projets
+
+### ♠️ Jeu de cartes — Inspiration Inscryption
+
+**Technologies :** Java, POO, UML
+
+Développement d'un jeu de cartes inspiré d'Inscryption dans le cadre de projets de programmation.
+
+- Modélisation des personnages, des cartes et de leurs propriétés.
+- Utilisation de classes, d'interfaces et de classes abstraites.
+- Gestion des tours de jeu et des effets des cartes.
+- Mise en pratique des principes de la programmation orientée objet.
+
+### 🤠 Western Story — Simulation narrative
+
+**Technologies :** Java, POO
+
+Développement d'un moteur de simulation textuelle dans un univers western.
+
+- Création de personnages et gestion de leurs caractéristiques.
+- Mise en place d'événements aléatoires et de mécanismes de combat.
+- Organisation du code à l'aide de classes et d'interfaces.
+- Travail sur la structure du programme et la réutilisabilité du code.
+
+### 🖧 Travaux pratiques — Systèmes et réseaux
+
+**Technologies :** Linux, Juniper, DHCP, DNS, Wireshark
+
+Travaux pratiques visant à comprendre le fonctionnement des réseaux informatiques et des services associés.
+
+- Configuration et découverte des VLAN et du routage.
+- Mise en place de services DHCP et DNS avec `dnsmasq` sur Raspberry Pi.
+- Observation et analyse de trafic réseau avec Wireshark.
+- Découverte de la configuration et du diagnostic d'environnements réseau.
+
+### 🔐 Cybersécurité — Dark Web et anonymat
+
+**Thèmes :** cybersécurité, anonymat, protection des données
+
+Réalisation d'un travail de recherche sur le fonctionnement du Dark Web et les mécanismes d'anonymat sur Internet.
+
+- Étude des technologies et des principes liés à l'anonymat.
+- Analyse des risques, des menaces et des enjeux de cybersécurité.
+- Sensibilisation aux pratiques de protection des données et de la vie privée.
+
+---
+
+## 🎯 Ce que je souhaite développer
+
+- Approfondir mes compétences en développement logiciel.
+- Concevoir des applications mieux structurées et plus robustes.
+- Progresser en programmation orientée objet et en conception logicielle.
+- Approfondir mes connaissances en systèmes, réseaux et cybersécurité.
+- Participer à des projets concrets et apprendre au sein d'une équipe.
+
+---
+
+## 📊 Mon activité sur GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinobyTN&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobyTN&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Langages utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinobyTN&theme=github-compact&hide_border=true&area=true" alt="Activité GitHub" />
+</p>
+
+---
+
+## 📫 Me retrouver
 
 <p align="left">
   <a href="https://github.com/shinobyTN">
-    <img src="https://img.shields.io/badge/GitHub-shinobyTN-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-shinobyTN-181717?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
+
+📍 Strasbourg, France
+
+💼 **À la recherche d'un premier stage en informatique.**
 
 ---
 
 <p align="center">
-  <sub>Étudiant · Strasbourg · En apprentissage permanent</sub>
+  <i>Curieux, motivé et toujours prêt à apprendre.</i>
 </p>
