@@ -82,8 +82,6 @@ Réalisation d'un projet dans le cadre du CNED portant sur le chiffrement.
 - Découverte des mécanismes permettant de protéger des informations.
 - Application des notions étudiées dans le cadre d'un projet informatique.
 
-🔗 **Dépôt GitHub :** [projet-cned-crypto](https://github.com/shinobyTN/projet-cned-crypto)
-
 ### 🖧 Travaux pratiques — Systèmes et réseaux
 
 **Technologies :** Linux, Juniper, DHCP, DNS, Wireshark.
